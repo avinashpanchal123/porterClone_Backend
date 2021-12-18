@@ -1,5 +1,5 @@
 # porterClone_Backend
-Buiding the clone of porter.in using ejs CSS,Javascript, express js, node js and mongoo db. Major pages include home page, packers and movers page , For Enterprice page , Driver Partners page
+Buiding the Backend of porter.in using ejs CSS,Javascript, express js, node js and mongoo db. Major pages include home page, packers and movers page , For Enterprice page , Driver Partners page
 
 
 ## How to run the website?
