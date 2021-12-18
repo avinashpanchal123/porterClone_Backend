@@ -18,6 +18,14 @@ body {
 
  }
 /* banner background image with text and form strats */
+
+/*updated register butten width */
+
+#register{
+	width: 14rem ;
+	height: 5vh;
+}
+
 .banner-img {
 	height: 650px;
 	width: 100%;
