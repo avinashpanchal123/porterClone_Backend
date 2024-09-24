@@ -1,62 +1,43 @@
-# porterClone_Backend
-Buiding the Backend and frontend of porter.in using ejs CSS,Javascript, express js, node js and mongoo db. Major pages include home page, packers and movers page , For Enterprice page , Driver Partners page
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snakes and Ladders Game</title>
+</head>
+<body>
+    <h1>🐍🎲 Snakes and Ladders Game 🪜🐍</h1>
+    <img src="https://your-image-link-here" alt="Snakes and Ladders Logo" style="width: 600px; height: auto;"> <!-- Add a relevant banner image or game logo -->
+    <h2>Overview</h2>
+    <p>
+        The <strong>Snakes and Ladders</strong> game is a classic board game where players roll dice and navigate through a board filled with ladders and snakes. The objective is to reach the end of the board, with ladders helping you progress and snakes sending you back.
+    </p>
+    <h2>Features</h2>
+    <ul>
+        <li><strong>Single-player and Multiplayer Modes</strong>: Play with AI or against multiple players.</li>
+        <li><strong>Interactive Board</strong>: Dynamic UI representing the Snakes and Ladders game board.</li>
+        <li><strong>Customizable Board Size</strong>: Adjustable board size to cater to different playing styles.</li>
+        <li><strong>Dice Roll Simulation</strong>: Real-time dice roll and smooth player movement animations.</li>
+    </ul>
+    <h2>Installation</h2>
+    <p>
+        To run the game locally, clone the repository and install the dependencies:
+    </p>
+    <pre><code>git clone https://github.com/yourusername/snakes-and-ladders-game.git
+cd snakes-and-ladders-game
+npm install
+npm start</code></pre>
+    <h2>How to Play</h2>
+    <ol>
+        <li>Choose the number of players.</li>
+        <li>Roll the dice to move around the board.</li>
+        <li>Climb ladders to move ahead and slide down snakes to fall back.</li>
+        <li>The first player to reach the end of the board wins!</li>
+    </ol>
+    <h2>Contributing</h2>
+    <p>Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.</p>
+    <h2>Contact</h2>
+    <p>If you have any questions, feel free to reach out to me on <a href="https://github.com/yourusername">GitHub</a>.</p>
 
-
-## How to run the website?
-<ul>
-  <li>Clone the repo and run the app.</li>
-  <ul>
-    <li>https://github.com/avinashpanchal123/porterClone_Backend</li>
-    <li>Execute the porter home.ejs using localhost:1583, and enjoy our website</li>
-    <li>deployment link :https://porterclone.herokuapp.com/</li>
-  </ul>
-</ul>
-
-## Built with
-<ul>
-  <li>ejs</li>
-  <li>CSS</li>
-    <li>express js</li>
-   <li>mongo db</li>
-    <li>mongoose</li>
-  <li>JS DOM</li>
-</ul>
-
-## Used libraries
-<ul>
-  <li>Font awesome</li>
-  <li>Google fonts</li>
-  <li>Google Icons</li>
-   <li>npm packages</li>
-  
-</ul>
-
-## Created Pages 
-<ul>
-  <li>Landing Page(City Tempo)</li>
-  <li>Pakers and Movers Page</li>
-  <li>Drivers and Parterns Page</li>
-  <li>For Enterprise Page </li>
-</ul>
-
-## Functionalities Added
-<ul>
-  <li>Added Slide Show Functionality</li>
-  <li>Added Address Enging Bar using Local Storage and Debouncing</li>
-  <li>Pop up Functionality for booking House Shifting and Order Tracking</li>
-  <li>Implemented Subdiv Parts inside FAQs Categories</li>
-  <li>Designed Graphics using CSS Animations</li>
-   <li>Created Backend using express js, mongo db and mongoose</li>
- 
-</ul>
-
-## Team Members 
-<ul>
-  <li><a href="http://github.com/Vivek14kr">Vivek Kumar</a></li>
-  <li><a href="https://github.com/AbhishekKumarJha3098">Abhishek Kumar Jha</a></li>
-  <li><a href="https://github.com/krushnakatore">Krushna Katore</a></li>
-  <li><a href="https://github.com/Tushar-chauhan198">Tushar Chauhan</a></li>
-  <li><a href="https://github.com/avinashpanchal123">Avinash Panchal</a></li>
-  <li><a href="https://github.com/remonsingh">Remon Singh</a></li>
-</ul>
-
+</body>
+</html>
